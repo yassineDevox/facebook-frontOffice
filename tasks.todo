@@ -1,7 +1,7 @@
 authentication module :
     ✔ Signin page design integration @started(20-05-16 16:04) @done(20-05-16 16:38) @lasted(34m20s)
-    ❑ Signup page design integration @started(20-05-16 16:40)
-    ❑ forget page design integration
-    ❑ reset page design integration
-    ❑ error404 page design integration
+    ✔ Signup page design integration @started(20-05-16 16:40) @done(20-05-16 17:20) @lasted(40m1s)
+    ✔ forget page design integration @started(20-05-16 17:23) @done(20-05-16 18:15) @lasted(52m30s)
+    ✘ reset page design integration @started(20-05-16 17:23) @cancelled(20-05-16 18:15) @wasted(52m27s)
+    ✔ error404 page design integration @started(20-05-16 17:23) @done(20-05-16 17:32) @lasted(9m41s)
     ❑ error not found account try to register

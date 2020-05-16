@@ -626,6 +626,18 @@ header.sticky {
 .log-reg-area.reg {
     display: none;
 }
+.log-reg-area.forget {
+    display: none;
+}
+
+.login-reg-bg.show-forget .log-reg-area.forget {
+    display: block;
+}
+
+.login-reg-bg.show-forget .log-reg-area.sign {
+    display: none;
+}
+
 
 .login-reg-bg.show .log-reg-area.reg {
     display: block;
@@ -634,6 +646,8 @@ header.sticky {
 .login-reg-bg.show .log-reg-area.sign {
     display: none;
 }
+
+
 
 
 /*--- topbar ---*/
