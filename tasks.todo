@@ -4,4 +4,5 @@ authentication module :
     ✔ forget page design integration @started(20-05-16 17:23) @done(20-05-16 18:15) @lasted(52m30s)
     ✘ reset page design integration @started(20-05-16 17:23) @cancelled(20-05-16 18:15) @wasted(52m27s)
     ✔ error404 page design integration @started(20-05-16 17:23) @done(20-05-16 17:32) @lasted(9m41s)
+    ✔ reset page design integration @started(20-05-19 17:24) @done(20-05-19 17:45) @lasted(21m27s)
     ❑ error not found account try to register
