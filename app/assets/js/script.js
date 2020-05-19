@@ -304,14 +304,20 @@ jQuery(document).ready(function ($) {
     $(this).removeClass("active");
     $(".side-panel").removeClass("active");
   });
+
   //forget pass section
 
-  $(".forgot-pwd").on("click", function () {
-	$(".login-reg-bg").addClass("show-forget");
-	
+$(".forgot-pwd").on("click", 
+  function () {
+    // alert(1)
+    $(".login-reg-bg").addClass("show-forget");
     return false;
-  });
-
+  }
+);
+  $(".a-hv-acnt").click(function(){
+    $(".login-reg-bg").removeClass("show-forget");
+    return false;
+  })
   // login & register form
   $("button.signup").on("click", function () {
     $(".login-reg-bg").addClass("show");
