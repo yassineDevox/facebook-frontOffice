@@ -6,3 +6,6 @@ authentication module :
     ✔ error404 page design integration @started(20-05-16 17:23) @done(20-05-16 17:32) @lasted(9m41s)
     ✔ reset page design integration @started(20-05-19 17:24) @done(20-05-19 17:45) @lasted(21m27s)
     ✔ error not found account try to register @started(20-05-19 17:59) @done(20-05-19 18:03) @lasted(4m27s)
+
+global design :
+    [] 
