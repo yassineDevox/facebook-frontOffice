@@ -1,0 +1,30 @@
+/* header shared css  */
+form#mysearch {
+    position: absolute;
+    right: 19px !important;
+    top: 1px !important;
+}
+
+form#mysearch input {
+    margin-top: -7px;
+    width: 100%;
+    border-bottom: 0;
+}
+form#mysearch button {
+    top: 1px;
+}
+
+#header-container .drops-menu > li > .tag {
+
+    font-size: 9px;
+    font-family: monospace;
+    font-weight: bold;
+    right: 12px;
+    top: 4px;
+    border-radius: 4px;
+}
+
+.hide-search {
+    display: none;
+}
+
